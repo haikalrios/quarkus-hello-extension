@@ -135,6 +135,11 @@ cd demo-app
 curl http://localhost:8080/hello-ext
 # -> Hello from Quarkus extension!
 ```
+O resultado sera:
+
+![dev-ui-extension-hello.png](img/dev-ui-extension-hello.png)
+
+![dev-ui-extension-servlet.png](img/dev-ui-extension-servlet.png)
 
 ---
 

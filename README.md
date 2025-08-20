@@ -36,7 +36,7 @@ This repository is structured to help you understand the development process of 
 
 1. Clone this repository to explore the code:
    ```bash
-   git clone https://github.com/yourusername/hello-ext.git
+   git clone https://github.com/haikalrios/quarkus-hello-extension.git
    cd hello-ext
    ```
 

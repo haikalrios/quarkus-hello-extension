@@ -113,7 +113,7 @@ Este repositório é estruturado para ajudar você a entender o processo de dese
 
 1. Clonar este repositório para explorar o código:
    ```bash
-   git clone https://github.com/yourusername/hello-ext.git
+   git clone https://github.com/haikalrios/quarkus-hello-extension.git
    cd hello-ext
    ```
 
